@@ -1,7 +1,7 @@
 blinkr
 ======
 
-blinkr is a tiny jquery plugin that allows you to make any element you choose blink on screen, much like the old <blink> tag used to. 
+blinkr is a tiny jquery plugin that allows you to make any element you choose blink on screen, much like the old `<blink>` tag used to. 
 
 How to use
 ----------
