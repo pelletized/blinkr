@@ -6,7 +6,7 @@ blinkr is a tiny jquery plugin that allows you to make any element you choose bl
 How to use
 ----------
 
-After linking to your version of jquery, simply seletc the element you would like to blink, like so: 
+After linking to your version of jquery, simply select the element you would like to blink, like so: 
 ```sh
 $('.blink').blinkr();
 ```
